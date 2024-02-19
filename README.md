@@ -1,7 +1,5 @@
-Jenkins/Hudson SmartFrog plugin
+# SmartFrog Plugin for Jenkins
 
-http://www.jenkins-ci.org/
+https://www.jenkins.io/
 
-http://www.smartfrog.org/
-
-
+https://sourceforge.net/projects/smartfrog/
